@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Removendo arquirvo Appliances
+./Dados/Appliances.json
